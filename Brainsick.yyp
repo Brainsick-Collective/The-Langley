@@ -106,7 +106,7 @@
             "Key": "4b6f071c-8e28-46ac-9580-c352c579e30f",
             "Value": {
                 "id": "a7d50a37-9750-4e82-9cf6-fd376c9482c1",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\S_parr0tbot\\S_parr0tbot.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -156,6 +156,14 @@
                 "id": "5c5b864e-8a10-41c1-8d1b-2c7849d64a5d",
                 "resourcePath": "views\\6bed899d-bb52-4913-a443-6b1bb7b948b6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "70ccf497-6ac7-4314-b93c-adff7a99fd14",
+            "Value": {
+                "id": "1802fa55-78b3-459b-9238-e41552898c85",
+                "resourcePath": "objects\\Obj_obsvroom\\Obj_obsvroom.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -218,7 +226,7 @@
             "Key": "ac9ea680-2979-4651-8034-8ea22e4cd4bb",
             "Value": {
                 "id": "5e351ae2-2827-4b0a-83d7-74eae73118f6",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourcePath": "sprites\\S_obsvroom\\S_obsvroom.yy",
                 "resourceType": "GMSprite"
             }
         },
