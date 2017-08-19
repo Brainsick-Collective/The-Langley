@@ -170,7 +170,7 @@
             "Key": "710c55f4-9452-4ba7-bbc4-444e8130b7b9",
             "Value": {
                 "id": "15f7ac6a-98d0-4a1a-9947-1c1b9dea1bb9",
-                "resourcePath": "rooms\\room3\\room3.yy",
+                "resourcePath": "rooms\\Observationroom\\Observationroom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -204,6 +204,14 @@
                 "id": "4b0567b9-0683-4d39-a4cb-0b93fcefff74",
                 "resourcePath": "fonts\\TSFont\\TSFont.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "a6352991-57fe-4be9-a140-d7cd17c14905",
+            "Value": {
+                "id": "d2ed7742-e668-4361-9374-408e68d99f0a",
+                "resourcePath": "scripts\\Top_Floor\\Top_Floor.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -338,7 +346,8 @@
     "script_order": [
         "83780e6a-1318-4cb3-944e-cdfd926ecd67",
         "c0155189-2686-4acc-9b2b-516391765332",
-        "0d5ee6e7-ad1c-4a7a-81f7-64fe7851513c"
+        "0d5ee6e7-ad1c-4a7a-81f7-64fe7851513c",
+        "a6352991-57fe-4be9-a140-d7cd17c14905"
     ],
     "tutorial": ""
 }
