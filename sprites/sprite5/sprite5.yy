@@ -7,7 +7,7 @@
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 677,
-    "bbox_left": 11,
+    "bbox_left": 0,
     "bbox_right": 1023,
     "bbox_top": 18,
     "bboxmode": 0,
@@ -35,20 +35,6 @@
                     "LayerId": "9da42551-bab5-4bca-bf56-7b68056d5e5b"
                 },
                 {
-                    "id": "c7f30f06-2215-406e-9076-5e946b1de23f",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
-                    "LayerId": "0e762cf8-a87e-46c4-8d30-f3c8db511f9e"
-                },
-                {
-                    "id": "163bacdd-e5e1-4dde-b34d-d7aecc015ca5",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
-                    "LayerId": "1fccdf82-cd5f-466b-acbe-56b24911821d"
-                },
-                {
                     "id": "9e265074-9691-48e9-9ba5-563179d27751",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
@@ -56,11 +42,25 @@
                     "LayerId": "713d07d1-a5cb-46a5-8daf-36b6b6ee2e80"
                 },
                 {
-                    "id": "c827799c-74e9-44a5-83e8-f0d1e735441f",
+                    "id": "7a42ccd3-d12c-4458-9488-0990f8584edf",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
                     "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
-                    "LayerId": "9fc663d8-3b2b-4df6-ae66-c92594f6b538"
+                    "LayerId": "df45899e-5834-42a1-9c3c-2294b8e16a5a"
+                },
+                {
+                    "id": "54776e0f-9155-4c0b-b272-a2b151df4235",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
+                    "LayerId": "c556f59b-e9a7-49d9-aae2-c4014ea86b2a"
+                },
+                {
+                    "id": "a71b73ae-c704-4d51-92b2-fb60c67aa11b",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
+                    "LayerId": "dd761fca-9611-407e-bf63-bee15022465b"
                 }
             ]
         }
@@ -70,25 +70,14 @@
     "height": 780,
     "layers": [
         {
-            "id": "9fc663d8-3b2b-4df6-ae66-c92594f6b538",
-            "modelName": "GMImageLayer",
-            "mvc": "1.0",
-            "SpriteId": "26bd910e-31e3-4385-9922-677d1dfdde8d",
-            "blendMode": 0,
-            "isLocked": false,
-            "name": "Layer 14",
-            "opacity": 100,
-            "visible": true
-        },
-        {
-            "id": "1fccdf82-cd5f-466b-acbe-56b24911821d",
+            "id": "df45899e-5834-42a1-9c3c-2294b8e16a5a",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "26bd910e-31e3-4385-9922-677d1dfdde8d",
             "blendMode": 0,
             "isLocked": false,
             "name": "Middle Consol",
-            "opacity": 16,
+            "opacity": 100,
             "visible": true
         },
         {
@@ -103,13 +92,24 @@
             "visible": true
         },
         {
-            "id": "0e762cf8-a87e-46c4-8d30-f3c8db511f9e",
+            "id": "c556f59b-e9a7-49d9-aae2-c4014ea86b2a",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "26bd910e-31e3-4385-9922-677d1dfdde8d",
             "blendMode": 0,
             "isLocked": false,
-            "name": "Main Panel",
+            "name": "Layer 2",
+            "opacity": 100,
+            "visible": true
+        },
+        {
+            "id": "dd761fca-9611-407e-bf63-bee15022465b",
+            "modelName": "GMImageLayer",
+            "mvc": "1.0",
+            "SpriteId": "26bd910e-31e3-4385-9922-677d1dfdde8d",
+            "blendMode": 0,
+            "isLocked": false,
+            "name": "Main Monitor",
             "opacity": 100,
             "visible": true
         },
