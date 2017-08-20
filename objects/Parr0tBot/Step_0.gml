@@ -10,14 +10,14 @@ switch (move)
 {
 	case 1:
 	{
-		speed = 10;
-		direction = right;
+		//speed = 10;
+		//direction = right;
 		break;
 	}
 	case -1:
 	{
-		speed = 10;
-		direction = left;
+	//	speed = 10;
+	//	direction = left;
 		break;
 	}
 	default: 
