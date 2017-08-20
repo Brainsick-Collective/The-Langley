@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0d560ec8-d355-4c00-bd7a-2afe1a527efb",
+            "Value": {
+                "id": "7e0eb393-977a-4579-a0fb-91ebcf1e4a03",
+                "resourcePath": "sprites\\S_obsvroom1\\S_obsvroom1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d5ee6e7-ad1c-4a7a-81f7-64fe7851513c",
             "Value": {
                 "id": "057cc21f-3798-4cc4-a3a4-7560475e69ec",

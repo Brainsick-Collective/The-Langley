@@ -35,20 +35,6 @@
                     "LayerId": "9da42551-bab5-4bca-bf56-7b68056d5e5b"
                 },
                 {
-                    "id": "9e265074-9691-48e9-9ba5-563179d27751",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
-                    "LayerId": "713d07d1-a5cb-46a5-8daf-36b6b6ee2e80"
-                },
-                {
-                    "id": "7a42ccd3-d12c-4458-9488-0990f8584edf",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
-                    "LayerId": "df45899e-5834-42a1-9c3c-2294b8e16a5a"
-                },
-                {
                     "id": "54776e0f-9155-4c0b-b272-a2b151df4235",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
@@ -61,6 +47,13 @@
                     "mvc": "1.0",
                     "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
                     "LayerId": "dd761fca-9611-407e-bf63-bee15022465b"
+                },
+                {
+                    "id": "1a26cbd9-f8e0-48e1-803f-bf200fd14b97",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "2060e523-0776-4a1b-b060-800778e14279",
+                    "LayerId": "21937a94-e78d-4aa2-abbe-09c49ac8d08a"
                 }
             ]
         }
@@ -70,28 +63,6 @@
     "height": 780,
     "layers": [
         {
-            "id": "df45899e-5834-42a1-9c3c-2294b8e16a5a",
-            "modelName": "GMImageLayer",
-            "mvc": "1.0",
-            "SpriteId": "26bd910e-31e3-4385-9922-677d1dfdde8d",
-            "blendMode": 0,
-            "isLocked": false,
-            "name": "Middle Consol",
-            "opacity": 100,
-            "visible": true
-        },
-        {
-            "id": "713d07d1-a5cb-46a5-8daf-36b6b6ee2e80",
-            "modelName": "GMImageLayer",
-            "mvc": "1.0",
-            "SpriteId": "26bd910e-31e3-4385-9922-677d1dfdde8d",
-            "blendMode": 0,
-            "isLocked": false,
-            "name": "Panels",
-            "opacity": 100,
-            "visible": true
-        },
-        {
             "id": "c556f59b-e9a7-49d9-aae2-c4014ea86b2a",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
@@ -99,6 +70,17 @@
             "blendMode": 0,
             "isLocked": false,
             "name": "Layer 2",
+            "opacity": 27,
+            "visible": true
+        },
+        {
+            "id": "21937a94-e78d-4aa2-abbe-09c49ac8d08a",
+            "modelName": "GMImageLayer",
+            "mvc": "1.0",
+            "SpriteId": "26bd910e-31e3-4385-9922-677d1dfdde8d",
+            "blendMode": 0,
+            "isLocked": false,
+            "name": "Middle Consol (2)",
             "opacity": 100,
             "visible": true
         },
