@@ -9,15 +9,40 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "ec6ade2c-4f63-48b7-bca9-d48dca22f79d"
+        "ec6ade2c-4f63-48b7-bca9-d48dca22f79d",
+        "b8e41dfe-e18c-41b9-9814-01ac46e551d3"
     ],
     "layers": [
+        {
+            "__type": "GMRPathLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "908e7d13-8b81-4cb2-8aba-e0efb07509bf",
+            "modelName": "GMRPathLayer",
+            "mvc": "1.0",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "Parrobot_paths",
+            "userdefined_depth": false,
+            "visible": true,
+            "pathId": "ddc1dc2b-76f8-428d-9549-3fbec789212a"
+        },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "id": "4874b6dd-270e-4b9c-85d1-3432ee9d8e38",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -58,6 +83,30 @@
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
+                },
+                {
+                    "id": "b8e41dfe-e18c-41b9-9814-01ac46e551d3",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_4D12CE0C",
+                    "x": 0,
+                    "y": 512,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_4D12CE0C",
+                    "objId": "cc7f5113-8b19-44d4-bebc-bc40f62d08af",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             ]
         },
@@ -66,7 +115,7 @@
             "id": "f4598582-3771-4518-b7fe-bdc7d8ba9d7d",
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
